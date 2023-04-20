@@ -4,7 +4,7 @@
 
 I'm Jeremiah, a technical writer and Python developer.
 I write about open source and accessiblity
-Because I believe technology is for everyone, and accessibility is a human right.
+because I believe technology is for everyone, and accessibility is a human right.
 
 __open source__ advocate, __accessiblity developer__. @a11yproject.
 
