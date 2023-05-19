@@ -2,13 +2,14 @@
 
 #### Thanks for checking my profile!
 
-I'm Jeremiah, a technical writer and Python developer.
+I'm Jeremiah, a technical writer and enthusiatic programmer. 
 __Open source__ advocate and __accessiblity developer__. @a11yproject.
 
 I believe technology is for everyone, and accessibility is a human right.
 
-I'm in the early days of my career, so there aren't many cool stuff here (yet!). 
-It's a work in progress.🚀
+I speak Python and love telling stories with data.
+
+When I code, love blossoms🥰 and my heart finds purpose😻
 
 
  
