@@ -1,6 +1,8 @@
 #### Hi, I'm Jeremiah 🐼
 
+
 A writer in the midst of a tech odyssey, exploring Python, data engineering, and the history of bites and bytes.
+
 ---
 
 ##### About Me
