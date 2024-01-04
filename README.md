@@ -1,6 +1,7 @@
 #### Hi, I'm Jeremiah 🐼
 
 A writer in the midst of a tech odyssey, exploring Python, data engineering, and the history of bites and bytes.
+---
 
 ##### About Me
 
@@ -19,6 +20,7 @@ GitHub is arguably the most important platform in our digital universe. I plan t
 * Code written with storytelling flair. 
 * Tech tales and occasional programming jokes.
 * Pythonic musings, data talks, and a sprinkle of interesting projects I build as I learn.
+---
 
 #### Let's connect!
 
