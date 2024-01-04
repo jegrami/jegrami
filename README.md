@@ -1,9 +1,8 @@
 #### Hi, I'm Jeremiah 🐼
 
-
 A writer in the midst of a tech odyssey, exploring Python, data engineering, and the history of bites and bytes.
 
-💬 ##### About Me
+##### About Me
 
 I'm a former copyeditor turned technical writer plodding toward a career in data and software engineering. 
 
@@ -15,17 +14,17 @@ My hobbies include code poetry, retro programming anecdotes, self-effacement, an
 
 GitHub is arguably the most important platform in our digital universe. I plan to develop a presence here reflecting my passion for coding, celebrating my command line heroes, and narrating my journey from writing words to writing code. 
 
-🌱 #### What you'll find here: 
+#### What you'll find here: 
 
-:white_medium_square: Code written with storytelling flair. 
-:white_medium_square: Tech tales and occasional programming jokes.
-:white_medium_square: Pythonic musings, data talks, and a sprinkle of interesting projects I build as I learn.
+◻️ Code written with storytelling flair. 
+◻️ Tech tales and occasional programming jokes.
+◻️ Pythonic musings, data talks, and a sprinkle of interesting projects I build as I learn.
 
 #### Let's connect!
-Since you're here, please connect with me:
 
-##### LinkedIn: https://www.linkedin.com/in/jeremiah-igrami/
-##### Twitter: https://twitter.com/je_grami. 
+Since you're here, please connect with me:
+##### [LinkedIn](https://www.linkedin.com/in/jeremiah-igrami/)
+##### [Twitter](https://twitter.com/je_grami)
 ##### Blog: I write about Python, data engineering, and API documentation [here](https://jegrami.hashnode.dev/)
  
 
