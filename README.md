@@ -1,16 +1,33 @@
-# Welcome to My Data Engineering Journey! 🚀
+#### Hi, I'm Jeremiah 🐼
 
-## What does a data engineer do? 
 
-Data engineers build and maintain the systems and processes (often called *pipelines*) that take in raw data and transform it into high-quality information for analytics, reporting, and machine learning. Beyond their basic duty of extracting, transforming, and loading data (ETL), data engineers are also responsible for managing **the data engineering lifecycle** — which begins from when data is generated in source systems to when it's served for downstream use cases.
+A writer in the midst of a tech odyssey, exploring Python, data engineering, and the history of bites and bytes.
 
-## About me
+💬 ##### About Me
 
-I'm Jeremiah, a copyeditor turned technical writer venturing into the crucial and exciting world of data engineering. I have an insatiable curiosity for technology and the immense potential of data to uncover patterns, trends, and insights that can shape the future. I love the idea of moving data around and building systems that efficiently process and deliver high-quality data to my customers, namely **data scientists**, **machine learning engineers**, and **business analysts**. 
+I'm a former copyeditor turned technical writer plodding toward a career in data and software engineering. 
 
- Since you're here, please connect with me. You can also find me on [LinkedIn](https://www.linkedin.com/in/jeremiah-igrami/) and on [Twitter](https://twitter.com/je_grami). 
+No grand illusions here — just a humble passion for coding, sprinkled with a dash of geekiness and a knack for programming arcana.
 
-And who's that tech writer without a blog? [README here](https://jegrami.hashnode.dev/). 
+My hobbies include code poetry, retro programming anecdotes, self-effacement, and a passion for the nerdy side of tech.
+
+#### What I Hope to Achieve with My GitHub Page :octocat:
+
+GitHub is arguably the most important platform in our digital universe. I plan to develop a presence here reflecting my passion for coding, celebrating my command line heroes, and narrating my journey from writing words to writing code. 
+
+🌱 #### What you'll find here: 
+
+:white_medium_square: Code written with storytelling flair. 
+:white_medium_square: Tech tales and occasional programming jokes.
+:white_medium_square: Pythonic musings, data talks, and a sprinkle of interesting projects I build as I learn.
+
+#### Let's connect!
+Since you're here, please connect with me:
+
+##### LinkedIn: https://www.linkedin.com/in/jeremiah-igrami/
+##### Twitter: https://twitter.com/je_grami. 
+##### Blog: I write about Python, data engineering, and API documentation [here](https://jegrami.hashnode.dev/)
+ 
 
 
  
