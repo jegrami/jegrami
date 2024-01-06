@@ -14,7 +14,7 @@ My hobbies include code poetry, retro programming anecdotes, self-effacement, an
 
 #### What I Hope to Achieve with My GitHub Page :octocat:
 
-GitHub is arguably the most important platform in our digital universe. I plan to develop a presence here reflecting my passion for coding, celebrating my command line heroes, and narrating my journey from writing words to writing code. 
+GitHub is arguably the most important platform in our digital universe. I plan to develop a presence here reflecting my passion for coding and my journey from writing words to writing code. 
 
 #### What you'll find here: 
 
@@ -28,7 +28,7 @@ GitHub is arguably the most important platform in our digital universe. I plan t
 Since you're here, please connect with me:
 ##### [LinkedIn](https://www.linkedin.com/in/jeremiah-igrami/)
 ##### [Twitter](https://twitter.com/je_grami)
-##### Blog: I write about Python, data engineering, and API documentation [here](https://jegrami.hashnode.dev/)
+##### Blog: I write about Python, data engineering, API documentation, and other useful programming concepts I learn — readme [here](https://jegrami.hashnode.dev/)
  
 
 
