@@ -1,6 +1,6 @@
 #### Hi, I'm Jeremiah 🐼
 
-a writer in the midst of a tech odyssey, exploring Python, data engineering, and all things computer programming.
+a writer amid a tech odyssey, exploring Python, web development, and all things computer programming.
 
 ---
 
